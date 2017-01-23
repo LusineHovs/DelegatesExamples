@@ -9,6 +9,7 @@ Here you can find examples of using delegates, anonimous methods, Lambda Methods
 - [LambdaMethodOperatorExpression](https://github.com/LusineHovs/DelegatesExamples/tree/master/Delegate001/LambdaMethodOperatorExpression)<br>
 - [LambdaMethodOpExp002](https://github.com/LusineHovs/DelegatesExamples/tree/master/Delegate001/LambdaMethodOpExp002)<br>
 - [UsingDelegateAsArgument](https://github.com/LusineHovs/DelegatesExamples/tree/master/Delegate001/UsingDelegateAsArgument)<br>
+- [UsingDelegateAsArgument(WithLambdaExpression)](https://github.com/LusineHovs/DelegatesExamples/tree/master/Delegate001/UsingDelegateAsArgument)<br>
 
 #Keywords
 C# 6.0, .Net Framework 4.6, Microsoft Visual Studio.
